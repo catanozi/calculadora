@@ -36,6 +36,5 @@ Para executar este projeto, você precisa ter o Python instalado em sua máquina
 ## Capturas de Tela
 
 ![Captura de Tela 1](painelCalculadora.png)
-*Exemplo de uso da calculadora.*
 
 
